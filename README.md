@@ -15,6 +15,10 @@
         How did iteration factor into your development?<br/>
 				With simple 3D scenes iteration didn't play a huge factor, but I could see using iteration quite a bit in more complex 3D scenes that have physics applied to them.<br/>
         How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?<br/>
+				Working on this project has made it so that I had to completely read all of the code in order to gain an understanding of how the program worked before I was able to add
+				anything to it.<br/>
     How can computer science help me in reaching my goals?<br/>
         How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?<br/>
+				Not having any prior knowledge of using code to create 3D representations of scenes, everything I learned in this class is going to be essential for my future education pathway.<br/>
         How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?<br/>
+				If my future professional pathway utilizes OpenGL, all of the skills from this class will help greatly with my future professional pathway.<br/>
